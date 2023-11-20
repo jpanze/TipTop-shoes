@@ -46,16 +46,16 @@ p{
 .col-2{
     flex-basis: 50%;
     min-width: 300px;
-    color: #b31702;
-}
-.col-2 img{
+  }
+  .col-2 img{
     max-width: 100%;
     padding: 50px 0;  
-}
-.col-2 h1{
+  }
+  .col-2 h1{
     font-size: 50px;
     line-height: 60px;
     margin: 25px 0;
+    color: #b31702;
 }
 .btn{
     display: inline-block;
