@@ -46,7 +46,7 @@ p{
 .col-2{
     flex-basis: 50%;
     min-width: 300px;
-    color:#ff523b;
+    color: #b31702;
 }
 .col-2 img{
     max-width: 100%;
@@ -72,7 +72,7 @@ p{
 }
 
 .header{
-    background: radial-gradient(#e29494,#ffd6d6);
+    background: radial-gradient(#dfa958,#201f1f);
 }
 .header .row{
     margin-top: 70px;
