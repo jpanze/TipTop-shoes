@@ -55,7 +55,6 @@ p{
     font-size: 50px;
     line-height: 60px;
     margin: 25px 0;
-    color: #b31702;
 }
 .btn{
     display: inline-block;
@@ -72,7 +71,7 @@ p{
 }
 
 .header{
-    background: radial-gradient(#dfa958,#201f1f);
+    background: radial-gradient(#f14d4d,#d4a59d);
 }
 .header .row{
     margin-top: 70px;
